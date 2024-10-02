@@ -1,7 +1,7 @@
-[![MasterHead](https://aditya-bhattacharya.net/2021/09/20/daily-dose-of-data-science-day-7-machine-learning-made-easy-with-flaml/)
+[![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif)
 <h1 align="center">Hi 👋, I'm Sonal Edwin</h1>
 <h3 align="center">MSc-AI graduate specializing in machine learning, data science, and innovative tech solutions.</h3>
-<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/836HiJc7pgzy8iNXCn" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">via GIPHY</a></p>“>
+<img align="right" alt="Coding" width="400" src="<iframe src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif“>
 
 - 🌱 I’m currently learning **Integration of MLOps with ZenML & MLflow**
 
