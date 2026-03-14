@@ -1,5 +1,3 @@
-[![MasterHead]
-
 <h1 align="center">Hi 👋, I'm Sonal Edwin</h1>
 <h3 align="center">MSc-AI graduate specializing in machine learning, data science, and innovative tech solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
